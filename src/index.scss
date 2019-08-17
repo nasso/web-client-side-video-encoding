@@ -1,0 +1,16 @@
+body {
+    margin: 0px;
+    padding: 8px;
+    background: black;
+
+    color: white;
+}
+
+#controls {
+    display: flex;
+    margin: 8px 0px;
+
+    &>* {
+        flex: 1 1 auto;
+    }
+}
