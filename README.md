@@ -28,7 +28,7 @@ Then you can run the dev server (useful when coding at the same time because it 
 ```
 npm run start
 ```
-It should be opened on localhost:8080
+It should be open on localhost:8080
 
 If you don't wanna use the dev server just build a bundle using webpack!
 ```
